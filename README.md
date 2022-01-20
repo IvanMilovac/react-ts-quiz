@@ -7,4 +7,4 @@
 <li>Styled Component</li>
 </li>
 
-Idea: https://youtu.be/F2JCjVSZlG0
+<p>Idea: <a href="https://youtu.be/F2JCjVSZlG0" target="_blank">Youtube</a></p>
