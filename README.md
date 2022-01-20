@@ -6,5 +6,5 @@
 <li>Typescript</li>
 <li>Styled Component</li>
 </li>
-
+</ul>
 <p>Idea: <a href="https://youtu.be/F2JCjVSZlG0" target="_blank">Youtube</a></p>
